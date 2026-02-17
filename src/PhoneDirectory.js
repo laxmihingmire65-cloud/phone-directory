@@ -11,7 +11,7 @@ class PhoneDirectory extends Component {
             subscribersList: [
                 {
                     id: 1,
-                    name: "Shilpa Bhat",
+                    name: "Shantanu H",
                     phone: "9999999999"
                 },
                 {
